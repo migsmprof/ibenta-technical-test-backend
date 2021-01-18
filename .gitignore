@@ -25,6 +25,10 @@
 /nbdist/
 /.nb-gradle/
 
+### Visual Studio Code ###
+/.vs/
+/.vscode/
+
 ### logs
 *.log
 
